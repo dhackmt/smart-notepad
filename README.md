@@ -7,3 +7,4 @@ Flowchart generation
 Backend integration for saving notes
 Personal note history
 This project is aimed at improving the way students organize and retain classroom content by making notes more readable and visually informative with the help of AI.
+# React + Vite
